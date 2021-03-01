@@ -2,13 +2,12 @@
 
 IZ\*Feed is a website which shows the recent updates and other information about a K-pop group called IZ*ONE.
 
-
-Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-hwang-43639419b/)
+Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-hwang-43639419b/)
 
 
 <br/><br/>
 
-## Table of Contents
+# Table of Contents
 1. [Technologies Used](#Technologies-Used)
 2. [Tasks](#Tasks)
 3. [Features](#Features)
@@ -17,14 +16,14 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
 
 <br/><br/>
 
-## Technologies Used
+# Technologies Used
 - JavaScript(ES6), HTML, CSS
 - Node.js
 - React.js
 
 <br/><br/>
 
-## Tasks
+# Tasks
 
 - [ ] 1. News
     - [ ] Manual Updates
@@ -65,16 +64,23 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
 
 <br/><br/>
 
-## Features
+# Features
 
 <br/><br/>
 
-## Version History
+# Version History
 
-#### 0.0.0. — March 1st, 2021
+Project Start — February 28th, 2021
+
+* [0.0.0](#0.0.0)
+
+## 0.0.0 (February 28th, 2021)
+
+#### Added
 - Initialized Git repository
-- Created a React app
+- Created React app
 - Created `README.md`, `.gitignore`
+- Created `Homepage.js`, `News.js`, `Gallery.js`, `SocialMedia.js`
     
 
 <br/><br/>
