@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Homepage() {
+function Homepage(props) {
     return (
         <p>IZ*Feed</p>
     );
