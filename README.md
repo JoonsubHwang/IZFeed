@@ -69,6 +69,7 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
 
 #### 0.0.0. — March 1st, 2021
 - Initialized Git repository
+- Created a React app
 - Created `README.md`, `.gitignore`
     
 
