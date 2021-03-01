@@ -18,7 +18,7 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
 <br/><br/>
 
 ## Technologies Used
-- JavaScript(ES6)
+- JavaScript(ES6), HTML, CSS
 - Node.js
 - React.js
 
@@ -26,15 +26,15 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
 
 ## Tasks
 
-- [ ] News
+- [ ] 1. News
     - [ ] Manual Updates
     - [ ] Google IZ*ONE news
 
-- [ ] Gallery
+- [ ] 2. Gallery
     - [ ] Filter by member(s)
     - [ ] Save multiple photos at once
 
-- [ ] Social Media
+- [ ] 3. Social Media
     - [ ] Twitter
         - [ ] From IZ*ONE
         - [ ] IZ*ONE Mentions
@@ -47,14 +47,18 @@ Author: Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-h
         - [ ] Posts
     - [ ] TikTok
 
-- [ ] Schedule
+- [ ] 4. Schedule
 
-- [ ] Fans' Media
+- [ ] 5. Fans' Media
     - [ ] Fan Videos
         - [ ] Filter by channels
         - [ ] Filter by video categories
     - [ ] Fan Photos
     - [ ] Fan Arts
+
+- [ ] 6. Homepage 
+
+- [ ] 7. Dark Mode
 
 
 
