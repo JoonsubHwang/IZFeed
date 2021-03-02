@@ -34,8 +34,8 @@ Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-hwang-436
     - [ ] Save multiple photos at once
 
 - [ ] 3. Social Media
-    - [ ] Twitter
-        - [ ] From IZ*ONE
+    - [x] Twitter
+        - [x] From IZ*ONE
         - [ ] IZ*ONE Mentions
     - [ ] Instagram
         - [ ] From IZ*ONE
