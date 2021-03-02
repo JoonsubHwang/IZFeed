@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import Homepage from './Homepage';
 import News from './News';
 import Gallery from './Gallery';
-import SocialMedia from './SocialMedia';
+import Twitter from './Twitter';
 
 function App() {
   return (
@@ -17,8 +17,8 @@ function App() {
       <Route exact path='/gallery' render={() => (
         <Gallery />
       )} />
-      <Route exact path='/social-media' render={() => (
-        <SocialMedia />
+      <Route exact path='/twitter' render={() => (
+        <Twitter />
       )} />
       <Route render={() => (
         <h1>Not Found</h1>
