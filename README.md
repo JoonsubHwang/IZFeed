@@ -17,9 +17,10 @@ Kayden Joonsub Hwang — [LinkedIn](https://www.linkedin.com/in/kayden-hwang-436
 <br/><br/>
 
 # Technologies Used
-- JavaScript(ES6), HTML, CSS
+- JavaScript, HTML, CSS
 - Node.js
 - React.js
+- Twitter API (Embedded timeline)
 
 <br/><br/>
 
@@ -74,6 +75,8 @@ Project Start — February 28th, 2021
 
 * [0.0.0](#0.0.0)
 
+<br/>
+
 ## 0.0.0 (February 28th, 2021)
 
 #### Added
@@ -81,6 +84,13 @@ Project Start — February 28th, 2021
 - Created React app
 - Created `README.md`, `.gitignore`
 - Created `Homepage.js`, `News.js`, `Gallery.js`, `SocialMedia.js`
+
+<br/>
+
+## 0.0.1 (March 1st, 2021)
+
+#### Added
+- Tweets from @official_IZONE
     
 
 <br/><br/>
